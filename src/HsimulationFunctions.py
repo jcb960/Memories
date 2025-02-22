@@ -1,3 +1,11 @@
+"""
+Copyright (c) 2023, Colin J.B.
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+"""
+
 import random #used for random choices if nothing correct appears in memory
 
 def memoryCheck(memoryList, shuffledSet, usedNumbers): #memoryList = cards it picked

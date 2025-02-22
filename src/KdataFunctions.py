@@ -1,3 +1,11 @@
+"""
+Copyright (c) 2023, Colin J.B.
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+"""
+
 def distinctCards(memList): #Gets distinct items in the list, no duplicates
     distinctList=[]
     for item in memList:
