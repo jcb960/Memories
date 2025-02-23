@@ -1,5 +1,5 @@
 """
-Copyright (c) 2023, Colin J.B.
+Copyright (c) 2023, jcb960.
 All rights reserved.
 
 This source code is licensed under the Apache License, Version 2.0 license found in the
